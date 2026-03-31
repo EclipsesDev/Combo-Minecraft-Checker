@@ -1,11 +1,10 @@
 ### HOW TO USE COMBO MINECRAFT CHECKER
 
 1. Download python3 or python
-2. unzip Combo Minecraft Checker
-3. Go to windows cmd
-4. Type "cd Downloads" and then type "cd Combo Minecraft Checker"
-5. Then type "main.py"
-6. And thats it, enjoy :b
+2. Go to windows cmd
+3. Type "cd Downloads" and then type "cd Combo Minecraft Checker"
+4. Then type "main.py"
+5. And thats it, enjoy :b
 
 ### !!MISSING PACKAGE ERROR!!
 
