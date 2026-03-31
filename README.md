@@ -1,7 +1,5 @@
 ### HOW TO USE COMBO MINECRAFT CHECKER
 
-**THE FILE PASSWORD IS "Combo88"**
-
 1. Download python3 or python
 2. unzip Combo Minecraft Checker
 3. Go to windows cmd
@@ -22,3 +20,7 @@
 **[+] Updated Design
 [+] Fixes minor bugs
 And much more!**
+
+### v1.2 Update Logs
+
+**[/] Source Code Refactor**
